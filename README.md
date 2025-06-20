@@ -1,5 +1,7 @@
 # Decentralized-Patient-Record-Management-System-
-The Decentralized Patient Record Management System is a blockchain-based solution on Ethereum that empowers patients with full control over their medical data, enabling secure, private, and transparent access management with all actions immutably recorded on the blockchain.
+A blockchain-based system where patients control access to their medical records, ensuring privacy, security, and transparency through Ethereum smart contracts.
+
+
 ## Overview
 
 The **Decentralized Patient Record Management System** is a blockchain-based solution that securely stores and manages patient records. Using smart contracts on Ethereum, patients retain full control over their medical data, ensuring privacy, security, and transparency. This system allows patients to grant or revoke access to their records, with all actions logged on the blockchain for accountability.
